@@ -1,1 +1,1 @@
-#body_detection
+Testando a bilioteca MediaPipe
